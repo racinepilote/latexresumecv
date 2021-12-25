@@ -8,21 +8,21 @@ www.racinepilote.com
 info@racinepilote.com
 514-582-6431
 
-Status: Analyste-programmeur, Intermédiaire
+Status Analyste-programmeur, Intermédiaire
 Compétence: Génie logiciel, Scrum, Planification et organisation, résolution de problèmes, mentorat
-Tâches: Analyser, Developer, tester, revue de code, maintien et deployment des applications
-Techs: PHP, Javascript, Java, SQL, Bash, HTML5/CSS 3, React, Redux, Redux Saga, antd UI library, Jest
+Tâches Analyser, Developer, tester, revue de code, maintien et déploiement des applications
+Techs PHP, Javascript, Java, SQL, Bash, HTML5/CSS 3, React, Redux, Redux Saga, antd UI library, Jest
 Symfony 4, Doctrine (ORM), API Platform Framework, API REST, PostgreSQL, MariaDB, Docker, PHPUnit
 SSH, HTTP, SSL/TLS, Gitlab CI/CD, Jenkins, Ansible, Gradle, Composer, Packagist, Jira, Confluence, Vim, IntelliJ
-Activities: Échec, jeux de société, méditation, bénévolat, Open Source, Plein air, Randonnée
+Activities Échec, jeux de société, méditation, bénévolat, Open Source, Plein air, Randonnée
 
 ------------------------------------------------------------------------
 INTRODUCTION
 ------------------------------------------------------------------------
 
-Je me consacre à apprendre ainsi qu’à participer à de nouveaux projets inspirants et qui peuvent venir en aider.
-Je cherche constamment à acquérir de l’expérience en programmation. Mon objectif de carrière est de contribuer au succès
-de projets au sein d’une équipe dynamique et innovatrice.
+Je me consacre à apprendre ainsi qu’à participer à de nouveaux projets inspirants et qui peuvent venir en aide.
+Je cherche constamment à acquérir de l’expérience en programmation. Mon objectif de carrière est de contribuer au
+succès de projets au sein d’une équipe dynamique et innovatrice.
 
 ------------------------------------------------------------------------
 EXPÉRIENCES PROFESSIONNELLES
@@ -30,23 +30,26 @@ EXPÉRIENCES PROFESSIONNELLES
 
 Analyste-programmeur Intermédiaire - Développeur Full Stack - DevOps - Attestra & 03/2019 - présent
 ------------------------------------------------------------------------
-Analysez, développez et déployez de nombreuses API Rest et d’application font-end.
-Prise en charge du développement et participation à l’évolution du fonctionnement de nos applications,
-Analysez et corrigez les bogues, ajoutez des fonctionnalités au logiciel avec leurs tests.
-Assurez le fonctionnement, la performance, l’évolutivité, la fiabilité et mise en œuvre de chaque projet.
+
+Analyser, développer et déployer de nombreuses API Rest et d’application front-end.
+Prise en charge du développement et participation à l’évolution du fonctionnement de nos applications.
+Analyser et corriger les bogues, ajouter des fonctionnalités aux logiciels avec leurs tests.
+Assurer le fonctionnement, la performance, la fiabilité, l’évolutivité et la mise en œuvre de chaque projet.
 Interagir et participer aux réunions avec les membres de l’équipe.
 Faire le suivi des tâches et des bloquants ainsi que de faire évaluation et la planification.
 
 
 Analyste-programmeur Junior, Développeur Full-Stack - Publitech & 02/2018 - 03/2019
 ------------------------------------------------------------------------
+
 Développement, correction, implémentation de fonctionnalités dans un API REST.
-Participation à l’évolution du fonctionnement d’un service qui d’envoyer des courriels ou SMS de masse.
-Analyse, développement d’application font-end
+Participation à l’évolution du fonctionnement d’un service qui envoi des courriels ou SMS de masse.
+Analyse, développement d’application front-end.
 
 
 Stagiaire - Développement Web - Publitech & 11/2017 - 02/2018
 ------------------------------------------------------------------------
+
 Création d’une structure de “string translation” de l’application front-end.
 Création d’un nouvel environnement de développement Back-end.
 Migration d’Angular 2 à Angular 4.
@@ -54,11 +57,13 @@ Migration d’Angular 2 à Angular 4.
 
 Intégrateur web - photographe - infographe - Radiko & 2010 - 2014
 ------------------------------------------------------------------------
+
 Désign et intégration de sites web, conception de logo, photographie.
 
 
 Organisateur d’évènements - Gestionnaire et gérant - Entrepreneur & 2004 - 2010
 ------------------------------------------------------------------------
+
 Organisation, gestion d’inventaire, recherche et mise en marché, gestion d’employés, service à la clientèle.
 
 ------------------------------------------------------------------------
@@ -67,14 +72,15 @@ Organisation, gestion d’inventaire, recherche et mise en marché, gestion d’
 
 Amazon Web Services - Collège Rosemont & 2018
 ------------------------------------------------------------------------
-Amazon EC2 (Elastic Compute Cloud)
-Amazon S3 et Amazon RDS, EC2, S3, RDS, SQS, SWF, SNS, API Gateway
+
+Amazon EC2 (Elastic Compute Cloud), Amazon S3 et Amazon RDS, EC2, S3, RDS, SQS, SWF, SNS, API Gateway
 
 
 AEC – Programmation orientée objet (LEA.3N) - Collège Rosemont & 2016 - 2018
 ------------------------------------------------------------------------
-Développer des programmes et des applications informatiques
-Analyse et conception de systèmes
-Exploitation de systèmes de gestion de bases de données
-Intégration des concepts de programmation orientée object, modélisation de basse de donnée, gestion réseau
+
+Développer des programmes et des applications informatiques.
+Analyse et conception de systèmes.
+Exploitation de systèmes de gestion de bases de données.
+Intégration des concepts de programmation orientée object, modélisation de basse de données, gestion réseau.
 Le travail d’équipe dans le cadre d’un développement Agile
