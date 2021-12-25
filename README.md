@@ -22,6 +22,7 @@ your can install brew install pandoc and run the command [Pandoc](https://pandoc
 and run the command
 ```shell
   $ pandoc --to=plain --wrap=none main.tex
+  $ pandoc --to=plain --wrap=none main.tex > main.txt
 ```
 
 
